@@ -10,7 +10,7 @@
 
 ---
 
-## Live Link [Demo]()
+## Live Link [Demo](https://manas-murmu-hackathon-ineuron.netlify.app/)
 
 ### Screenshot
 
