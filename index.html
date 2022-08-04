@@ -924,6 +924,16 @@
             });
             });
          </script>  
+         <script>
+            $( function() {
+  var $content = $('.content');
+  $content.imagesLoaded( function() {
+    $content.masonry({
+      itemSelector: '.content_box' 
+    });
+  });
+});
+         </script>
       </div>
    </body>
 </html>
